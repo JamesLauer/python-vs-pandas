@@ -1,0 +1,5 @@
+company,numEmps,category,city,state,fundedDate,raisedAmt,raisedCurrency,round
+MyCityFaces,7,web,Scottsdale,AZ,1-Jan-08,50000,USD,pod
+gAuto,4,web,Scottsdale,AZ,1-Jan-08,250000,USD,pod
+ChosenList.com,5,web,Scottsdale,software,1-Oct-06,140000,USD,pod
+ChosenList.com,5,web,Scottsdale,AZ,25-Jan-08,233750,USD,angel
